@@ -7,7 +7,7 @@ This is the Generative Adversarial Network Demo written in Python using the Thea
 Dependencies
 ============
 
-* Python - (https://www.python.org/downloads/)
+* Python 2.7+ - (https://www.python.org/downloads/)
 * matplotlib - `pip install matplotlib`
 * theano - `pip install theano`
 * scipy - `pip install scipy`
