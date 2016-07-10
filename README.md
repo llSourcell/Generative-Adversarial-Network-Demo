@@ -2,6 +2,8 @@ Overview
 ============
 This is the Generative Adversarial Network Demo written in Python using the Theano ML library. This is the code for the Generative Adversarial Network Episode of Fresh Machine Learning on [Youtube](https://youtu.be/deyOX6Mt_As). There is a default static gaussian distribution curve that the generator curve continously tries to mimic. Each timestep it gets better and better as it slowly gets better at fooling the disciminator network. Here's a cool live [demo](http://cs.stanford.edu/people/karpathy/gan/)
 
+![http://i.imgur.com/5qzjtgd.png](http://i.imgur.com/5qzjtgd.png)
+
 Dependencies
 ============
 
